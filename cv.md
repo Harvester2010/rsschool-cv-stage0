@@ -1,11 +1,11 @@
- # Vitali Zhnai
-## Contacts: 
+# Vitali Zhnai
+## Contacts 
 - Email: zhnai@mail.ru
 - Discord: Vitali(@harvester2010)
- ## About me 
+## About me 
  I work in a power station. І want to change and new knowledges.
-## Education: 
+## Education 
 - Minsk State Power college(automation and control energy processes),
 - Belarussian National Technical University(engineer in energetic)
- ## Languages:
+## Languages
  belarussian(native),russian,english(intermediate).
