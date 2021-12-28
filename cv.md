@@ -1,7 +1,7 @@
  # Vitali Zhnai
 ## Contacts: 
-    - Email: zhnai@mail.ru
-    - Discord: Vitali(@harvester2010)
+- Email: zhnai@mail.ru
+- Discord: Vitali(@harvester2010)
  ## About me 
  I work in a power station. І want to change and new knowledges.
 ## Education: 
